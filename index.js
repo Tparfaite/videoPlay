@@ -10,14 +10,6 @@ header.map(item=>{
     })
 })
 
-// const bye=Array.from(head);
-// console.log(bye);
-// bye.map(item=>{
-//     item.firstElementChild.addEventListener("click",e=>{
-//         e.target.nextElementSibling.classList.toggle("bbbb");
-
-//     })
-// })
 
 
 
